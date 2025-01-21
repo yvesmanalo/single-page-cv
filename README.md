@@ -8,5 +8,5 @@ This project contains the following file(s) and folder:
 - **image.png** - name of the image file used as favicon which will appear in the browser tab when the CV is loaded.
   
 ## Preview
-Here's a [preview](https://yvesmanalo.github.io/single-page-cv/) of how the CV looks. 
+Here's the [project URL](https://yvesmanalo.github.io/single-page-cv/) to see how the CV looks like. 
 
